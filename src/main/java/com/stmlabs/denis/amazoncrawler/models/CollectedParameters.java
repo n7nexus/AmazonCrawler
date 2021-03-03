@@ -1,4 +1,4 @@
-package com.stmlabs.denis.amazoncrawler;
+package com.stmlabs.denis.amazoncrawler.models;
 
 import javax.persistence.*;
 
