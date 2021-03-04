@@ -1,7 +1,7 @@
-package com.stmlabs.denis.amazoncrawler.repos;
+package com.stmlabs.denis.amazoncrawler.database.repos;
 
 import org.springframework.data.repository.CrudRepository;
-import com.stmlabs.denis.amazoncrawler.models.Parser;
+import com.stmlabs.denis.amazoncrawler.database.models.Parser;
 
 public interface ParserRepository extends CrudRepository<Parser, Integer>{
 }
